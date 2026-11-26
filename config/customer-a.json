@@ -1,0 +1,14 @@
+{
+  "customer": "示例客户 A（内部文档问答）",
+  "port": 8000,
+  "apiBase": "https://open.bigmodel.cn/api/paas/v4",
+  "model": "glm-4-air",
+  "apiKey": "",
+  "apiKeyFile": "C:/Users/18310/.modlens/config.json",
+  "python": "C:/Users/18310/.dsh/dsh-runtimes/dsh-primary-runtime/dependencies/python/python.exe",
+  "index": "../rag-kb/data/index.sqlite",
+  "vendor": "../vendor",
+  "logDir": "../rag-kb/logs",
+  "topK": 3,
+  "note": "客户现场只改 port / apiBase / apiKey，别改代码"
+}
