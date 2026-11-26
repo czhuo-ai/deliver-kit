@@ -1,0 +1,7 @@
+{"q": "桌宠每累计多久活跃时间生成一个宝箱？", "answerable": true, "keywords": ["30 分钟", "30分钟"]}
+{"q": "开一个宝箱要消耗多少字符数？", "answerable": true, "keywords": ["1,000", "1000"]}
+{"q": "BOSS 助手一天最多打招呼多少个？", "answerable": true, "keywords": ["25"]}
+{"q": "企业知识库问答系统的 recall@5 是多少？", "answerable": true, "keywords": ["96.7", "96"]}
+{"q": "自然语言数据分析 Agent 的 SQL 通过率是多少？", "answerable": true, "keywords": ["83.3", "83"]}
+{"q": "PPT 模板怎么上传到云端？", "answerable": false}
+{"q": "你们公司年会定在几号？", "answerable": false}
